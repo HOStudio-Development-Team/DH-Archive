@@ -1,2 +1,2 @@
 # DH-Archive
-World archive of DH (a Minecraft BE server)
+World Archive of DH (A Minecraft BE server)
